@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680791546360",
+    "project_id": "mynotes-naveen",
+    "storage_bucket": "mynotes-naveen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680791546360:android:ea7e2805cae9c72a565e0d",
+        "android_client_info": {
+          "package_name": "com.naveenchand.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680791546360-79853ub8facdm2mbjuejmrhm73uab20j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-mA5W6eMO2zaQhGBiL8OBCsJWKmM8eBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680791546360-79853ub8facdm2mbjuejmrhm73uab20j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
