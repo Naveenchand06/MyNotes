@@ -116,6 +116,8 @@ class _RegisterViewState extends State<RegisterView> {
                   email: _email.text,
                   password: _password.text,
                 );
+                await FirebaseAuth.instance.currentUser!
+                    .sendEmailVerification();
                 print(userCredential);
               } on FirebaseAuthException catch (e) {
                 print('code: ${e.code}');
